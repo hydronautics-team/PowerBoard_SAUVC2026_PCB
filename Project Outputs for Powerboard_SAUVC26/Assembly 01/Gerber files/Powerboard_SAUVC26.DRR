@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Powerboard_SAUVC26.PcbDoc   14.09.2025  16:22:12
+NCDrill File Report For: Powerboard_SAUVC26.PcbDoc   04.10.2025  10:44:19
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Powerboard_SAUVC26.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.5mm (20mil)                                             Round             308       PTH        1137.71mm (44.79inch)
+T1      0.5mm (20mil)                                             Round             431       PTH        1401.04mm (55.16inch)
 T2      1mm (39mil)                                               Round             40        PTH        121.92mm (4.80inch)
 T3      1.02mm (40mil)                                            Round             40        PTH        119.38mm (4.70inch)
 T4      3.2mm (126mil)                                            Round             30        PTH        280.80mm (11.06inch)
@@ -15,6 +15,6 @@ T5      6mm (236mil)                                              Round         
 T6      3mm (118mil)                                              Round             3         NPTH       173.20mm (6.82inch)
 T7      3.2mm (126mil)                                            Round             4         NPTH       225.29mm (8.87inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              429
+Totals                                                                              552
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
