@@ -2,80 +2,6 @@
 FileName = Powerboard_SAUVC26.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Shape
-      File : Powerboard_SAUVC26.GM4
-
-    Adding Layer      : Board Shape
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Powerboard_SAUVC26.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Powerboard_SAUVC26.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D20
-    D30
-    D32
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Powerboard_SAUVC26.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : Powerboard_SAUVC26.GBS
 
@@ -110,10 +36,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : Powerboard_SAUVC26.GTS
+Generating : Top Paste
+      File : Powerboard_SAUVC26.GTP
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -121,27 +47,18 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 
 *************************************************************
@@ -161,17 +78,49 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Powerboard_SAUVC26.GTO
+Generating : Top Layer
+      File : Powerboard_SAUVC26.GTL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : Powerboard_SAUVC26.GM4
+
+    Adding Layer      : Board Shape
 
 
 Used DCodes :
     D10
     D11
-    D12
-    D13
 *************************************************************
 
 *************************************************************
@@ -211,22 +160,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Layer 2
-      File : Powerboard_SAUVC26.G2
+Generating : Top Solder
+      File : Powerboard_SAUVC26.GTS
 
-    Adding Layer      : Layer 2
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D48
-    D49
-    D51
-    D53
-    D55
-    D56
-    D57
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
 *************************************************************
 
 *************************************************************
@@ -250,36 +215,71 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Powerboard_SAUVC26.GTL
+Generating : Bottom Paste
+      File : Powerboard_SAUVC26.GBP
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D14
-    D15
-    D16
-    D17
     D18
-    D19
     D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D47
+    D30
+    D32
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Powerboard_SAUVC26.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : Powerboard_SAUVC26.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D48
     D49
-    D50
     D51
-    D52
     D53
-    D54
     D55
     D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Powerboard_SAUVC26.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
 *************************************************************
 
